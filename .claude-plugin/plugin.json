@@ -1,0 +1,6 @@
+{
+  "name": "am-plugin",
+  "version": "1.0.0",
+  "description": "Developer toolkit plugin for Claude Code — agents for architecture, code review, testing, refactoring, and performance auditing; skills for API docs, DBML schemas, Draw.io diagrams, frontend design, and README editing; security hooks and guided workflows.",
+  "license": "MIT"
+}
