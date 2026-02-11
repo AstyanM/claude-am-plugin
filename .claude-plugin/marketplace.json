@@ -6,8 +6,11 @@
   "plugins": [
     {
       "name": "am-plugin",
-      "source": ".",
-      "description": "Developer toolkit — agents, skills, commands, hooks"
+      "description": "Developer toolkit — agents, skills, commands, hooks",
+      "source": {
+        "source": "github",
+        "repo": "AstyanM/claude-am-plugin"
+      }
     }
   ]
 }
