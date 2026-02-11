@@ -1,0 +1,13 @@
+{
+  "name": "am-marketplace",
+  "owner": {
+    "name": "AstyanM"
+  },
+  "plugins": [
+    {
+      "name": "am-plugin",
+      "source": ".",
+      "description": "Developer toolkit — agents, skills, commands, hooks"
+    }
+  ]
+}
